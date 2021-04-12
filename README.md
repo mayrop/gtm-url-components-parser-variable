@@ -1,4 +1,4 @@
-# Google Tag Manager Components Parser Variable
+# Google Tag Manager URL Components Parser Variable Template
 
 ## Summary
 This repository contains a [Google Tab Manager Variable template](https://developers.google.com/tag-manager/templates) that helps to parse a URL and extract a component from it. Google Tag Manager already has some [built-in variables](https://support.google.com/tagmanager/answer/7182738#pages), such as hostname and path, but there are other parts of the URL that can be extracted. It makes use of the [`parseUrl` API](https://developers.google.com/tag-manager/templates/api#parseurl).
