@@ -1,5 +1,9 @@
 # Google Tag Manager URL Components Parser Variable Template
 
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/justia/templates/gtm-url-components-parser-variable) ![Repo Size](https://img.shields.io/github/repo-size/justia/gtm-url-components-parser-variable) ![License](https://img.shields.io/github/license/justia/gtm-url-components-parser-variable)
+
+---
+
 ## Summary
 This repository contains a [Google Tag Manager Variable template](https://developers.google.com/tag-manager/templates) that helps to parse a URL and extract a component from it. Google Tag Manager already has some [built-in variables](https://support.google.com/tagmanager/answer/7182738#pages), such as hostname and path, but there are other parts of the URL that can be extracted. It makes use of the [`parseUrl` API](https://developers.google.com/tag-manager/templates/api#parseurl).
 
